@@ -19,6 +19,7 @@ li {
   list-style: none;
   margin: 0;
   padding: 0;
+  text-transform: capitalize;
   font-family: Roboto, arial, sans-serif;
   color: #9aa0a6;
   font-size: 16px;
